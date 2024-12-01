@@ -1,0 +1,14 @@
+{
+  "name": "objects_workshop",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "glob": "^11.0.0",
+    "lru-cache": "^11.0.1"
+  }
+}
