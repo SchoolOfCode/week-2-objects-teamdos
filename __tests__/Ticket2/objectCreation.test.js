@@ -1,5 +1,5 @@
 // Import the members from script.js
-const { member1, member2, member3 } = require('./script');
+const { member1, member2, member3 } = require('./script.js');
 
 // test for testing member objects
 describe('Member Objects Definition Tests', () => {
